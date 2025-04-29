@@ -132,10 +132,10 @@ class Packager {
     const msiCreator = new MSICreator({
       appDirectory: path('../dist/windows/app-win32-x64'),
       appIconPath: path('../utilities/msi/images/icon.ico'),
-      description: 'Example app',
+      description: 'Local AI Assistant',
       exe: 'app',
-      manufacturer: 'Example Manufacturer',
-      name: 'electron-react-python-template',
+      manufacturer: 'Swapnil Singh',
+      name: 'sigma',
       outputDirectory: path('../dist/windows/setup'),
       ui: {
         chooseDirectory: true,
