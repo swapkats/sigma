@@ -1,12 +1,3 @@
-# Electron, React & Python Template
-
-[![Build](https://img.shields.io/badge/build-passing-%23704cb6?style=for-the-badge)](https://github.com/iPzard/electron-react-python-template#readme)
-[![License](https://img.shields.io/github/license/iPzard/electron-react-python-template?color=704cb6&style=for-the-badge)](https://github.com/iPzard/electron-react-python-template/blob/master/LICENSE)
-
-> Multi-platform Electron template, using React & Redux Toolkit with Python/Flask microservices.
-
-![electron_react_python](https://user-images.githubusercontent.com/8584126/95290114-59e42900-0821-11eb-8e43-a708959e8449.gif)
-
 ## 🛠️ Setup
 Ensure you have [Node](https://nodejs.org/en/download/) and [Python](https://www.python.org/downloads/) installed, then clone this repository. After it's cloned, navigate to the project's root directory on your computer and
 run the following scrips in a terminal application *(e.g., Git Bash)*:
@@ -76,6 +67,3 @@ Code documentation for this template, created with [JSDoc](https://github.com/js
 ## 🦟 Bugs
 Bugs reported on the project's [issues page](https://github.com/iPzard/electron-react-python-template/issues) will be exterminated as quickly as possible, be sure to include steps to reproduce so they can be spotted easily.
 <br><br>
-
-## 🏷️ License
-MIT © [iPzard](https://github.com/iPzard/electron-react-python-template/blob/master/LICENSE)
